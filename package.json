@@ -12,8 +12,10 @@
     "lintfix": "prettier --write --list-different ."
   },
   "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.317.0",
     "@kangc/v-md-editor": "^1.7.11",
     "@nuxtjs/axios": "^5.13.6",
+    "aws-sdk": "^2.1363.0",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
