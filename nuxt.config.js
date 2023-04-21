@@ -2,6 +2,7 @@ import colors from 'vuetify/es5/util/colors'
 
 export default {
   env: {
+    GH_CLIENT_SECRET: '356132eced2f672ca8d608b7d8d6b0c048aee328',
     GH_CLIENT_ID: '55f5b2ca213eb58f5159'
   },
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
